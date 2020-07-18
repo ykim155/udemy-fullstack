@@ -88,7 +88,9 @@ hr {
   text-decoration: none;
 }
 .copyright, .disclaimer {
+  display: inline-block;
   color: white;
+  width: 50%;
 }
 .contact-p {
   margin-bottom: 50px;
