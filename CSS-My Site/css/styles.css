@@ -61,6 +61,10 @@ hr {
   background-color: #c6e6f5;
   padding: 50px;
   width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 .top-container {
   position: relative;
